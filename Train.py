@@ -99,4 +99,4 @@ training.to_csv("training_new.csv", single_file = True)
 
 
 print(accuracy_score(np.array(y_train),np.array(pred_train)))
-print ("End Training!")
+print ("End Training!!")
